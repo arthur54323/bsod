@@ -1,1 +1,1 @@
-1. run CMD as Admin.
+1. run this bat file as Admin. (only if you want to have bsod)
